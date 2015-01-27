@@ -1,6 +1,5 @@
 from numpy import *
 
-
 # random array
 randomArr = random.rand(4, 4)
 print(type(randomArr))
